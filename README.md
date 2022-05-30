@@ -1,4 +1,4 @@
-# Simple Port Scanner With Python
+# Simple Vulnerability  Scanner With Python
 ## Skills
 * Using Command Line arguments with Python 
 * Using Nmap 
